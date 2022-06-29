@@ -16,6 +16,15 @@
    </Button>
 
    <Button
+       android:id="@+id/btnBelajarWhile"
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:layout_marginTop="1dp"
+       android:text="Belajar for">
+   </Button>
+
+
+   <Button
        android:id="@+id/btnBelajarIF"
        android:layout_width="match_parent"
        android:layout_height="wrap_content"
