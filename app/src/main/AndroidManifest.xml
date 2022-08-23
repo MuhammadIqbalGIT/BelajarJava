@@ -10,6 +10,78 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.BelajarJava">
         <activity
+            android:name=".ScopeActivity"
+            android:exported="false" />
+        <activity
+            android:name=".RecursiveMthodActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MethodOverloadingActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MethodReturnValueActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MethodActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ForEachActivity"
+            android:exported="false" />
+        <activity
+            android:name=".BreakAndContinueActivity"
+            android:exported="false" />
+        <activity
+            android:name=".DoWhileLoopActivity"
+            android:exported="false" />
+        <activity
+            android:name=".WhileLoopActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ForLoopActivity"
+            android:exported="false" />
+        <activity
+            android:name=".TernaryOperatorActivity"
+            android:exported="false" />
+        <activity
+            android:name=".SwitchStatementActivity"
+            android:exported="false" />
+        <activity
+            android:name=".IfStatementActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ExpressionActivity"
+            android:exported="false" />
+        <activity
+            android:name=".OperasiBooleanActivity"
+            android:exported="false" />
+        <activity
+            android:name=".OperasiPerbandinganActivity"
+            android:exported="false" />
+        <activity
+            android:name=".OperasiMatematikaActivity"
+            android:exported="false" />
+        <activity
+            android:name=".TipeDataArrayActivity"
+            android:exported="false" />
+        <activity
+            android:name=".VariableActivity"
+            android:exported="false" />
+        <activity
+            android:name=".TipeDataStringActivity"
+            android:exported="false" />
+        <activity
+            android:name=".TipeDataBooleanActivity"
+            android:exported="false" />
+        <activity
+            android:name=".TipeDataCharacterActivity"
+            android:exported="false" />
+        <activity
+            android:name=".TipeDataNumberActivity"
+            android:exported="false" />
+        <activity
+            android:name=".HelloWorldActivity"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>

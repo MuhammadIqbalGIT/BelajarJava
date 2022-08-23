@@ -11,7 +11,7 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:orientation="vertical"
-        android:padding="10dp">
+        android:padding="30dp">
 
         <TextView
             android:layout_width="match_parent"
@@ -26,11 +26,11 @@
 
 
         <Button
-            android:id="@+id/btnBelajarFor"
+            android:id="@+id/btnHeloWorld"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginTop="30dp"
-            android:text="Belajar for">
+            android:text="Hello world">
         </Button>
 
         <Button
