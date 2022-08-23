@@ -1,37 +1,169 @@
 <?xml version="1.0" encoding="utf-8"?>
-<androidx.appcompat.widget.LinearLayoutCompat xmlns:android="http://schemas.android.com/apk/res/android"
+<androidx.core.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
-    android:orientation="vertical"
     android:layout_height="match_parent"
+    android:orientation="vertical"
     tools:context=".MainActivity">
 
-   <Button
-       android:id="@+id/btnBelajarFor"
-       android:layout_width="match_parent"
-       android:layout_height="wrap_content"
-       android:layout_marginTop="30dp"
-       android:text="Belajar for">
-   </Button>
-
-   <Button
-       android:id="@+id/btnBelajarWhile"
-       android:layout_width="match_parent"
-       android:layout_height="wrap_content"
-       android:layout_marginTop="1dp"
-       android:text="Belajar for">
-   </Button>
-
-
-   <Button
-       android:id="@+id/btnBelajarIF"
-       android:layout_width="match_parent"
-       android:layout_height="wrap_content"
-       android:layout_marginTop="1dp"
-       android:text="Belajar for">
-   </Button>
 
 
 
-</androidx.appcompat.widget.LinearLayoutCompat>
+    <androidx.appcompat.widget.LinearLayoutCompat
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:padding="10dp">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textAlignment="center"
+            android:textSize="25dp"
+            android:layout_marginTop="15dp"
+            android:textStyle="bold"
+            android:textColor="@color/black"
+            android:text="Belajar Java Dasar">
+        </TextView>
+
+
+        <Button
+            android:id="@+id/btnBelajarFor"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="30dp"
+            android:text="Belajar for">
+        </Button>
+
+        <Button
+            android:id="@+id/btnBelajarWhile"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="1dp"
+            android:text="Belajar for"></Button>
+
+
+        <Button
+            android:id="@+id/btnBelajarIF"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="1dp"
+            android:text="Belajar for"></Button>
+
+        <Button
+            android:id="@+id/btnTest1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="1dp"
+            android:text="Btn test"></Button>
+
+        <Button
+            android:id="@+id/btnTest2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="1dp"
+            android:text="Btn test"></Button>
+
+        <Button
+            android:id="@+id/btnTest3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="1dp"
+            android:text="Btn test"></Button>
+
+        <Button
+            android:id="@+id/btnTest4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="1dp"
+            android:text="Btn test"></Button>
+
+        <Button
+            android:id="@+id/btnTest5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="1dp"
+            android:text="Btn test"></Button>
+
+        <Button
+            android:id="@+id/btnTest6"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="1dp"
+            android:text="Btn test"></Button>
+
+        <Button
+            android:id="@+id/btnTest7"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="1dp"
+            android:text="Btn test"></Button>
+
+        <Button
+            android:id="@+id/btnTest8"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="1dp"
+            android:text="Btn test"></Button>
+
+        <Button
+            android:id="@+id/btnTest9"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="1dp"
+            android:text="Btn test"></Button>
+
+        <Button
+            android:id="@+id/btnTest10"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="1dp"
+            android:text="Btn test"></Button>
+
+        <Button
+            android:id="@+id/btnTest11"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="1dp"
+            android:text="Btn test"></Button>
+
+        <Button
+            android:id="@+id/btnTest12"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="1dp"
+            android:text="Btn test"></Button>
+
+        <Button
+            android:id="@+id/btnTest13"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="1dp"
+            android:text="Btn test"></Button>
+
+        <Button
+            android:id="@+id/btnTest14"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="1dp"
+            android:text="Btn test"></Button>
+
+        <Button
+            android:id="@+id/btnTest15"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="1dp"
+            android:text="Btn test"></Button>
+
+        <Button
+            android:id="@+id/btnTest16"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="1dp"
+            android:text="Btn test"></Button>
+
+    </androidx.appcompat.widget.LinearLayoutCompat>
+
+
+</androidx.core.widget.NestedScrollView>
