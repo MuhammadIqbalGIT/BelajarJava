@@ -82,6 +82,21 @@
             android:name=".HelloWorldActivity"
             android:exported="false" />
         <activity
+            android:name=".TipeDataString"
+            android:exported="false" />
+        <activity
+            android:name=".TipeDataBoolean"
+            android:exported="false" />
+        <activity
+            android:name=".TipeDataNumber"
+            android:exported="false" />
+        <activity
+            android:name=".HelloWorld"
+            android:exported="false" />
+        <activity
+            android:name=".TipeDataCharacter"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
