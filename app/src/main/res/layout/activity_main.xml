@@ -4,8 +4,6 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:orientation="vertical"
-    android:scrollbars="vertical"
-    android:layout_margin="15dp"
     android:layout_height="match_parent"
     tools:context=".MainActivity">
 
@@ -22,120 +20,16 @@
        android:layout_width="match_parent"
        android:layout_height="wrap_content"
        android:layout_marginTop="1dp"
-       android:text="While">
+       android:text="Belajar for">
    </Button>
 
 
    <Button
-       android:id="@+id/doWhile"
+       android:id="@+id/btnBelajarIF"
        android:layout_width="match_parent"
        android:layout_height="wrap_content"
        android:layout_marginTop="1dp"
-       android:text="DO While">
-   </Button>
-
-   <Button
-       android:id="@+id/doWhile1"
-       android:layout_width="match_parent"
-       android:layout_height="wrap_content"
-       android:layout_marginTop="1dp"
-       android:text="Dow While">
-   </Button>
-
-   <Button
-       android:id="@+id/doWhile2"
-       android:layout_width="match_parent"
-       android:layout_height="wrap_content"
-       android:layout_marginTop="1dp"
-       android:text="Dow While">
-   </Button>
-
-   <Button
-       android:id="@+id/doWhile13"
-       android:layout_width="match_parent"
-       android:layout_height="wrap_content"
-       android:layout_marginTop="1dp"
-       android:text="Dow While">
-   </Button>
-
-   <Button
-       android:id="@+id/doWhile3"
-       android:layout_width="match_parent"
-       android:layout_height="wrap_content"
-       android:layout_marginTop="1dp"
-       android:text="Dow While">
-   </Button>
-
-   <Button
-       android:id="@+id/doWhile4"
-       android:layout_width="match_parent"
-       android:layout_height="wrap_content"
-       android:layout_marginTop="1dp"
-       android:text="Dow While">
-   </Button>
-
-   <Button
-       android:id="@+id/doWhile5"
-       android:layout_width="match_parent"
-       android:layout_height="wrap_content"
-       android:layout_marginTop="1dp"
-       android:text="Dow While">
-   </Button>
-
-   <Button
-       android:id="@+id/doWhile6"
-       android:layout_width="match_parent"
-       android:layout_height="wrap_content"
-       android:layout_marginTop="1dp"
-       android:text="Dow While">
-   </Button>
-
-   <Button
-       android:id="@+id/doWhile7"
-       android:layout_width="match_parent"
-       android:layout_height="wrap_content"
-       android:layout_marginTop="1dp"
-       android:text="Dow While">
-   </Button>
-
-   <Button
-       android:id="@+id/doWhile8"
-       android:layout_width="match_parent"
-       android:layout_height="wrap_content"
-       android:layout_marginTop="1dp"
-       android:text="Dow While">
-   </Button>
-
-   <Button
-       android:id="@+id/doWhile9"
-       android:layout_width="match_parent"
-       android:layout_height="wrap_content"
-       android:layout_marginTop="1dp"
-       android:text="Dow While">
-   </Button>
-
-   <Button
-       android:id="@+id/doWhile10"
-       android:layout_width="match_parent"
-       android:layout_height="wrap_content"
-       android:layout_marginTop="1dp"
-       android:text="Dow While">
-   </Button>
-
-   <Button
-       android:id="@+id/doWhile11"
-       android:layout_width="match_parent"
-       android:layout_height="wrap_content"
-       android:layout_marginTop="1dp"
-       android:text="Dow While">
-   </Button>
-
-   <Button
-       android:id="@+id/doWhile12"
-       android:layout_width="match_parent"
-       android:layout_height="wrap_content"
-       android:layout_marginTop="1dp"
-       android:text="Dow While">
+       android:text="Belajar for">
    </Button>
 
 
